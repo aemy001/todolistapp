@@ -36,12 +36,12 @@ Before you run the app, make sure you have the following installed:
 
 ## Authentication
 For the initial database connection, the app uses the following credentials: :
-username: Aimon
-password: aimon123 
-db name: todolist
+- username: Aimon
+- password: aimon123 
+- db name: todolist
 
-Technologies Used
-Frontend: HTML, CSS, Bootstrap
-Backend: PHP
-Database: MySQL
+## Technologies Used
+- Frontend: HTML, CSS, Bootstrap
+- Backend: PHP
+- Database: MySQL
 
